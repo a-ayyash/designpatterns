@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.farm.Dashboard">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <minimumSize width="400" height="400"/>
+      <preferredSize width="400" height="400"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="c8337" class="javax.swing.JLabel" binding="firstLabel">
+        <constraints/>
+        <properties>
+          <preferredSize width="300" height="100"/>
+          <text value="Label"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="230f3" class="javax.swing.JLabel" binding="secondLabel">
+        <constraints/>
+        <properties>
+          <horizontalTextPosition value="11"/>
+          <preferredSize width="300" height="100"/>
+          <text value="Helloo"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="9780e" class="javax.swing.JLabel" binding="thirdLabel">
+        <constraints/>
+        <properties>
+          <preferredSize width="300" height="100"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="96d0e" class="javax.swing.JLabel" binding="fourthLabel">
+        <constraints/>
+        <properties>
+          <preferredSize width="200" height="200"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
