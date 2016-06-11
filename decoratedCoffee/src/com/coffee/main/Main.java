@@ -1,7 +1,6 @@
 package com.coffee.main;
 
 import com.coffee.decorated.Beverage;
-import com.coffee.firstTry.*;
 import com.coffee.decorated.*;
 import com.coffee.firstTry.DarkRoast;
 
@@ -26,7 +25,7 @@ public class Main {
 
         System.out.println(decoratedRoast.getDescription() + " costs= " + decoratedRoast.cost());
 
-        //Now Add Tea and a new condiment ( pumkin spice )
+        //Now Add Tea and a new condiment ( pumpkin spice )
 
     }
 }
